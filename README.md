@@ -5,7 +5,7 @@ See LICENSE file for details.
 
 ![Voxa](./src/assets/logo-text.svg)
 
-# bun-react-tailwind-shadcn-template
+# Setup
 
 To install dependencies:
 
