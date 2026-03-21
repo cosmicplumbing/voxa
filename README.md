@@ -3,6 +3,8 @@ Copyright © 2026 Cosmic B.V.
 Licensed under the European Union Public Licence (EUPL), Version 1.2.
 See LICENSE file for details.
 
+![Voxa](./src/assets/logo-text.svg)
+
 # bun-react-tailwind-shadcn-template
 
 To install dependencies:
