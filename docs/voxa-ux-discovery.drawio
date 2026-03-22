@@ -1,0 +1,97 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Object Definitions" id="OXu5Ybu7nPki3KGk3kP1">
+    <mxGraphModel dx="1767" dy="1150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u3nsl79MriWC6Fww2i5i-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#2C88D9,#2C88D9);fillStyle=solid;strokeColor=#2C88D9;" value="Message" vertex="1">
+          <mxGeometry height="60" width="120" x="-392" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#2C88D9,#2C88D9);fillStyle=solid;strokeColor=#2C88D9;" value="Topic" vertex="1">
+          <mxGeometry height="60" width="120" x="-233.5" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#2C88D9,#2C88D9);fillStyle=solid;strokeColor=#2C88D9;" value="User" vertex="1">
+          <mxGeometry height="60" width="120" x="-79.5" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#2C88D9,#2C88D9);fillStyle=solid;strokeColor=#2C88D9;" value="Message Tag" vertex="1">
+          <mxGeometry height="60" width="120" x="79.5" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#2C88D9,#2C88D9);fillStyle=solid;strokeColor=#2C88D9;" value="Profile Tag" vertex="1">
+          <mxGeometry height="60" width="120" x="236" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#2C88D9,#2C88D9);fillStyle=solid;strokeColor=#2C88D9;" value="Thread" vertex="1">
+          <mxGeometry height="60" width="120" x="393" y="267" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=light-dark(#666666,#4F4F4F);spacing=5;spacingLeft=5;spacingRight=5;align=left;" value="&lt;span style=&quot;&quot;&gt;The fundamental object in the system. Messages either start a Thread or are replying in a Thread and are organized by Topics, written by Users.&amp;nbsp;&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="207" width="120" x="-392" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=light-dark(#666666,#4F4F4F);spacing=5;spacingLeft=5;spacingRight=5;align=left;" value="A grouping of messages, similar to a category. These are set by the community managers and moderators.&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="207" width="120" x="-233.5" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=light-dark(#666666,#4F4F4F);spacing=5;spacingLeft=5;spacingRight=5;align=left;" value="People of the system. They write Messages within Topics and contribute to Threads.&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="207" width="120" x="-79.5" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=light-dark(#666666,#4F4F4F);spacing=5;spacingLeft=5;spacingRight=5;align=left;" value="A horizontal way to categorize Messages across Topics&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="207" width="120" x="79.5" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=light-dark(#666666,#4F4F4F);spacing=5;spacingLeft=5;spacingRight=5;align=left;" value="A way for Users to further self-identify into smaller groups or sub-communities&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="207" width="120" x="236" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=light-dark(#666666,#4F4F4F);spacing=5;spacingLeft=5;spacingRight=5;align=left;" value="A set of Messages under a User-defined title that makes up the conversation on the given subject area within a Topic.&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="207" width="120" x="393" y="327" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Magical Practice" vertex="1">
+          <mxGeometry height="60" width="120" x="-233.5" y="551" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Astrology" vertex="1">
+          <mxGeometry height="60" width="120" x="-233.5" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Divination" vertex="1">
+          <mxGeometry height="60" width="120" x="-233.5" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="JakeZuke" vertex="1">
+          <mxGeometry height="60" width="120" x="-79.5" y="551" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Ohnoimdead&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-79.5" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Introduction to the Community&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="79.5" y="551.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Best Of" vertex="1">
+          <mxGeometry height="60" width="120" x="79.5" y="628.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="All Support Articles" vertex="1">
+          <mxGeometry height="60" width="120" x="79.5" y="705.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Gardinarian Wiccans" vertex="1">
+          <mxGeometry height="60" width="120" x="236" y="551.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Cosmic Staff" vertex="1">
+          <mxGeometry height="60" width="120" x="236" y="628.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Astrologers" vertex="1">
+          <mxGeometry height="60" width="120" x="236" y="705.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Tje Problem with Gnosis" vertex="1">
+          <mxGeometry height="60" width="120" x="393" y="555.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="Deal Walk: Aries II" vertex="1">
+          <mxGeometry height="60" width="120" x="393" y="628.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;How Time Works in the U.S. before 1970 when casting charts&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="393" y="705.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;fillStyle=solid;strokeColor=light-dark(#E6E675,#FFFBB1);fontColor=light-dark(#000000,#FFFFFF);" value="A reply supporting The Problem with Gnosis by JakeZuke" vertex="1">
+          <mxGeometry height="60" width="120" x="-387" y="551.0000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;fillStyle=solid;strokeColor=light-dark(#E6E675,#FFFBB1);fontColor=light-dark(#000000,#FFFFFF);" value="A clarification to Deacon Walk Aries II by HighDensityFloppy" vertex="1">
+          <mxGeometry height="60" width="120" x="-387" y="628" as="geometry" />
+        </mxCell>
+        <mxCell id="u3nsl79MriWC6Fww2i5i-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;fillStyle=solid;strokeColor=light-dark(#E6E675,#FFFBB1);fontColor=light-dark(#000000,#FFFFFF);" value="A question in How Time Works in the U.S. before 1970 when casting charts by ohnoimdead" vertex="1">
+          <mxGeometry height="90" width="120" x="-387" y="705" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

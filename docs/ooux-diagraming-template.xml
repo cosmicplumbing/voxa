@@ -1,0 +1,37 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#2C88D9,#2C88D9);fillStyle=solid;strokeColor=#2C88D9;\" value=\"Message\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Object"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325,#F7C325);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;\" value=\"&amp;lt;font style=&amp;quot;color: rgb(0, 0, 0);&amp;quot;&amp;gt;Message&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" x=\"2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Core Content"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=light-dark(#F7C325, #fdf2d2);fillStyle=solid;strokeColor=#2C88D9;fontColor=#000000;\" value=\"&amp;lt;font style=&amp;quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&amp;quot;&amp;gt;tres@treshenry.net&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" y=\"2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Instance Example"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=none;fillStyle=solid;strokeColor=light-dark(#E6E675,#FFFBB1);fontColor=light-dark(#000000,#FFFFFF);\" value=\"A reply supporting The Problem with Gnosis by JakeZuke\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Derived Core Content"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=4;strokeColor=light-dark(#666666,#4F4F4F);spacing=5;spacingLeft=5;spacingRight=5;align=left;\" value=\"&amp;lt;span style=&amp;quot;&amp;quot;&amp;gt;The fundamental object in the system. Messages either start a Thread or are replying in a Thread and are organized by Topics, written by Users.&amp;amp;nbsp;&amp;amp;nbsp;&amp;lt;/span&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"207\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120.00000000000001,
+    "h": 206.99999999999997,
+    "aspect": "fixed",
+    "title": "Definition"
+  }
+]</mxlibrary>
